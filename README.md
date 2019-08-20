@@ -19,6 +19,11 @@ This project uses OpenCV to detect lane lines in any image or video. Image or vi
 The new window will open automatically and the video or image will be shown with the lanes marked over the image frame.
 
 
+## Contributors
+[Sankalp Dayal](https://github.com/sankalpdayal5) - (@Sankalp Dayal) on slack
+
 ## References
 - Udemy course - The Complete Self-Driving Car Course - Applied Deep Learning
 - Find more about the course [here](https://www.udemy.com/applied-deep-learningtm-the-complete-self-driving-car-course/)
+
+
