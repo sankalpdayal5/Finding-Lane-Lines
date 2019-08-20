@@ -20,7 +20,7 @@ The new window will open automatically and the video or image will be shown with
 
 
 ## Contributors
-[Sankalp Dayal](https://github.com/sankalpdayal5) - (@Sankalp Dayal) on slack
+[Sankalp Dayal](https://github.com/sankalpdayal5) - (@Sankalp Dayal) on slack <br>
 [Ishan Arora] -(https://github.com/ishan6899)   -  (@Ishan Arora) on slack
 
 ## References
